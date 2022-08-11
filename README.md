@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href = "https://www.linkedin.com/in/jenil-shah-474377214/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32" height="32"/></a>
 <a href = "https://www.instagram.com/_thejenilshah_/?hl=en/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32" height="32"/></a>
-<a href="https://https://twitter.com/thejenilshah"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://https://twitter.com/thejenilshah/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 
 </p>
