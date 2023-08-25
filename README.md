@@ -8,11 +8,22 @@
 
 Here are some ideas to get you started:
 -->
+##
 * 🌍  I'm based in Rajkot, India
 * ✉️  You can contact me at [sjenil0120@gmail.com](mailto:sjenil0120@gmail.com)
 * 🧠  I'm learning Java, Python, HTML and CSS
 * 🤝  I'm open to collaborating on Java and Open Source Projects
 * ⚡  Other than Tech, I am a Cricket lover and I love to listen LOFI MUSIC
+
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
 
 ## Connect with me:
 <p align="left">
